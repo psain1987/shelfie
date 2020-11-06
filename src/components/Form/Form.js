@@ -7,7 +7,6 @@ class Form extends Component{
             name: '',
             price: 0,
             imgUrl: '',
-            toggleEdit: false
         }
     }
 
